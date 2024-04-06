@@ -13,7 +13,7 @@ from flask import Flask, render_template, request
 # -----------------------------------------------------------------------------
 
 
-CONFIG_FILE = "src/7b_docker_client/config.json"
+CONFIG_FILE = "config.json"
 
 try :
     with open(CONFIG_FILE, 'r') as f:
