@@ -1,0 +1,58 @@
+2024-04-06 07:32:27,478:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:32:27,478:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:32:27,482:INFO: * Restarting with stat
+2024-04-06 07:32:28,948:WARNING: * Debugger is active!
+2024-04-06 07:32:28,957:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:33:03,452:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:33:03,806:INFO: * Restarting with stat
+2024-04-06 07:33:04,938:WARNING: * Debugger is active!
+2024-04-06 07:33:04,940:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:33:07,131:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:33:07,219:INFO: * Restarting with stat
+2024-04-06 07:33:08,422:WARNING: * Debugger is active!
+2024-04-06 07:33:08,426:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:44:46,303:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:44:46,303:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:44:46,305:INFO: * Restarting with stat
+2024-04-06 07:44:47,195:WARNING: * Debugger is active!
+2024-04-06 07:44:47,198:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:52:25,700:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:52:25,700:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:52:25,705:INFO: * Restarting with stat
+2024-04-06 07:52:26,606:WARNING: * Debugger is active!
+2024-04-06 07:52:26,606:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:53:47,404:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:53:47,544:INFO: * Restarting with stat
+2024-04-06 07:53:50,082:WARNING: * Debugger is active!
+2024-04-06 07:53:50,084:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:56:05,795:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:56:05,892:INFO: * Restarting with stat
+2024-04-06 07:56:07,200:WARNING: * Debugger is active!
+2024-04-06 07:56:07,206:INFO: * Debugger PIN: 106-558-737
+2024-04-06 07:56:17,882:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 07:56:26,417:INFO:Prediction: [1566897.18810138]
+2024-04-06 07:56:26,422:INFO:127.0.0.1 - - [06/Apr/2024 07:56:26] "POST / HTTP/1.1" 200 -
+2024-04-06 07:59:22,195:INFO:127.0.0.1 - - [06/Apr/2024 07:59:22] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:42,337:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:42,339:INFO:Prediction: [1566897.18810138]
+2024-04-06 08:01:42,340:INFO:127.0.0.1 - - [06/Apr/2024 08:01:42] "POST / HTTP/1.1" 200 -
+2024-04-06 08:02:02,112:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:02:02,892:INFO: * Restarting with stat
+2024-04-06 08:02:05,096:WARNING: * Debugger is active!
+2024-04-06 08:02:05,099:INFO: * Debugger PIN: 106-558-737
+2024-04-06 08:02:06,261:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:02:06,402:INFO: * Restarting with stat
+2024-04-06 08:02:07,893:WARNING: * Debugger is active!
+2024-04-06 08:02:07,896:INFO: * Debugger PIN: 106-558-737
+2024-04-06 08:02:08,713:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:10,794:INFO:Prediction: [1566897.18810138]
+2024-04-06 08:02:10,794:INFO:127.0.0.1 - - [06/Apr/2024 08:02:10] "POST / HTTP/1.1" 200 -
+2024-04-06 08:19:15,269:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:19:15,271:INFO:Prediction: [1566897.18810138]
+2024-04-06 08:19:15,272:INFO:127.0.0.1 - - [06/Apr/2024 08:19:15] "POST / HTTP/1.1" 200 -
+2024-04-06 09:14:18,080:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:14:18,116:INFO:Prediction: [151535.93087221]
+2024-04-06 09:14:18,116:INFO:127.0.0.1 - - [06/Apr/2024 09:14:18] "POST / HTTP/1.1" 200 -

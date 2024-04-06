@@ -1,0 +1,77 @@
+2024-03-23 11:58:34,899:INFO:Starting the application
+2024-03-23 11:58:34,948:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:58:34,949:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:58:34,957:INFO: * Restarting with stat
+2024-03-23 11:59:47,964:INFO:Starting the application
+2024-03-23 11:59:47,984:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:59:47,984:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:59:47,987:INFO: * Restarting with stat
+2024-03-23 12:00:42,696:INFO:Starting the application
+2024-03-23 12:00:42,722:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:00:42,724:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:00:42,726:INFO: * Restarting with stat
+2024-03-23 12:01:40,981:INFO:Starting the application
+2024-03-23 12:01:41,010:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:01:41,011:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:01:41,013:INFO: * Restarting with stat
+2024-03-23 12:02:58,863:INFO:Starting the application
+2024-03-23 12:02:58,899:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:02:58,900:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:02:58,909:INFO: * Restarting with stat
+2024-03-23 12:03:51,857:INFO:Starting the application
+2024-03-23 12:03:51,880:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:03:51,880:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:03:51,883:INFO: * Restarting with stat
+2024-03-23 12:03:53,060:INFO:Starting the application
+2024-03-23 12:03:53,069:WARNING: * Debugger is active!
+2024-03-23 12:03:53,080:INFO: * Debugger PIN: 106-558-737
+2024-03-23 12:04:17,852:INFO:127.0.0.1 - - [23/Mar/2024 12:04:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-03-23 12:04:18,311:INFO:127.0.0.1 - - [23/Mar/2024 12:04:18] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-23 12:04:18,311:INFO:127.0.0.1 - - [23/Mar/2024 12:04:18] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-23 12:04:18,437:INFO:127.0.0.1 - - [23/Mar/2024 12:04:18] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 12:05:04,596:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:05:04,689:INFO: * Restarting with stat
+2024-03-23 12:05:05,684:INFO:Starting the application
+2024-03-23 12:05:05,692:WARNING: * Debugger is active!
+2024-03-23 12:05:05,695:INFO: * Debugger PIN: 106-558-737
+2024-03-23 12:05:11,487:INFO:Starting the application
+2024-03-23 12:05:11,571:INFO:Starting the application
+2024-03-23 12:05:15,491:INFO:Starting the application
+2024-03-23 12:05:15,519:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:05:15,520:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:05:15,521:INFO: * Restarting with stat
+2024-03-23 12:05:16,561:INFO:Starting the application
+2024-03-23 12:05:16,572:WARNING: * Debugger is active!
+2024-03-23 12:05:16,572:INFO: * Debugger PIN: 106-558-737
+2024-03-23 12:05:30,161:INFO:127.0.0.1 - - [23/Mar/2024 12:05:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-03-23 12:05:30,733:INFO:127.0.0.1 - - [23/Mar/2024 12:05:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-23 12:05:30,733:INFO:127.0.0.1 - - [23/Mar/2024 12:05:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-23 12:05:30,771:INFO:127.0.0.1 - - [23/Mar/2024 12:05:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-23 12:06:15,000:INFO: * Detected change in 'C:\\Users\\Pablo\\Documents\\Productos_de_Datos\\20240316_Clase_6_7_DATAPIPELINE\\taller-presencial-PabloRiomalo95\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:06:15,341:INFO: * Restarting with stat
+2024-03-23 12:06:17,357:INFO:Starting the application
+2024-03-23 12:06:17,362:WARNING: * Debugger is active!
+2024-03-23 12:06:17,362:INFO: * Debugger PIN: 106-558-737
+2024-03-23 12:06:17,451:INFO:127.0.0.1 - - [23/Mar/2024 12:06:17] "GET / HTTP/1.1" 200 -
+2024-03-23 12:06:17,561:INFO:127.0.0.1 - - [23/Mar/2024 12:06:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:06:41,773:INFO:Starting the application
+2024-03-23 12:06:41,869:INFO:Starting the application
+2024-03-23 23:51:31,360:INFO:Starting the application
+2024-03-23 23:51:31,385:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 23:51:31,385:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 23:51:31,385:INFO: * Restarting with stat
+2024-03-23 23:51:32,183:INFO:Starting the application
+2024-03-23 23:51:32,183:WARNING: * Debugger is active!
+2024-03-23 23:51:32,199:INFO: * Debugger PIN: 106-558-737
+2024-03-23 23:51:38,675:INFO:127.0.0.1 - - [23/Mar/2024 23:51:38] "GET / HTTP/1.1" 200 -
+2024-03-23 23:52:22,986:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 23:52:29,908:INFO:Prediction: 151535.93
+2024-03-23 23:52:29,908:INFO:127.0.0.1 - - [23/Mar/2024 23:52:29] "POST / HTTP/1.1" 200 -
