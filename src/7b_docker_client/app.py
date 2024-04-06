@@ -13,13 +13,20 @@ from flask import Flask, render_template, request
 # -----------------------------------------------------------------------------
 
 
-CONFIG_FILE = "config.json"
-
-try :
-    with open(CONFIG_FILE, 'r') as f:
-        config = json.load(f)
+try:
+    CONFIG_FILE = "config.json"
+    try :
+        with open(CONFIG_FILE, 'r') as f:
+            config = json.load(f)
+    except:
+        raise FileNotFoundError(f"File {CONFIG_FILE} not found")
 except:
-    raise FileNotFoundError(f"File {CONFIG_FILE} not found")
+    CONFIG_FILE = "src/7b_docker_client/config.json"
+    try :
+        with open(CONFIG_FILE, 'r') as f:
+            config = json.load(f)
+    except:
+        raise FileNotFoundError(f"File {CONFIG_FILE} not found")
 
 logging.basicConfig(
     filename=os.path.join(config["logs_dir"], config["api_client_log"]),
